@@ -1,0 +1,9 @@
+{
+  "best_model": "Linear Regression",
+  "test_metrics": {
+    "MAE": 0.3196,
+    "RMSE": 0.4837,
+    "R2": 0.8706
+  },
+  "models_compared": ["Linear Regression", "Random Forest", "Gradient Boosting"]
+}
